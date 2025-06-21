@@ -1,1 +1,1 @@
-https://github.com/20010420/proasivjar/blob/main/Sistema_de_Ventas.jar
+Sistema_de_Ventas.jar
