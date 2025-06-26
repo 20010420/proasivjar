@@ -15,7 +15,6 @@ Imprimir_saldo_factura.jrxml
 Lista_vacunas_cliente.jasper
 Lista_vacunas_cliente.jrxml
 README.TXT
-Sistema_de_Ventas.jar
 imprimir_articulo.jasper
 imprimir_articulo.jrxml
 imprimir_codigo_articulo.jasper
