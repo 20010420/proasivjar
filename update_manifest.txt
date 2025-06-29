@@ -27,5 +27,5 @@ imprimir_inventario.jasper
 imprimir_inventario.jrxml
 imprimir_inventario_grande.jasper
 imprimir_inventario_grande.jrxml
-Sistema_de_Ventas.jar
+Sistema_de_Ventas_temp.jar
 version.txt
