@@ -28,4 +28,4 @@ imprimir_inventario.jrxml
 imprimir_inventario_grande.jasper
 imprimir_inventario_grande.jrxml
 Sistema_de_Ventas.jar
-version,txt
+version.txt
