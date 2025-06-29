@@ -1,11 +1,18 @@
 🆕 Notas de actualización
+
+
+
 ✅ Actualización automática optimizada
 El sistema ahora se actualiza en segundo plano sin interrumpir tu trabajo. Al finalizar, se muestra un resumen con las novedades y un botón para reiniciar la aplicación si así lo deseas.
+
 🪄 Panel de actualización inteligente
 Si cierras el panel durante la descarga, no te preocupes: se reabrirá automáticamente al finalizar, para que no te pierdas las novedades.
+
 📝 Visualización de notas mejorada
 Las notas de esta versión se cargan directamente desde el archivo de cambios del sistema. Si no están disponibles, se te informará con un mensaje claro.
+
 🔄 Reinicio con un clic
 Después de actualizar, puedes reiniciar fácilmente el sistema desde el mismo panel, sin necesidad de cerrar y volver a abrir manualmente.
+
 🔧 Mayor estabilidad y experiencia visual refinada
 Se realizaron mejoras internas en la lógica de la interfaz y el flujo de la actualización para una experiencia más fluida y robusta
