@@ -1,18 +1,18 @@
-🆕 Notas de actualización
+📌  Notas de actualización – Versión 2.0.3
 
 
+Fecha de lanzamiento: 18-07-2025
+Aplicado por: Sistema de mantenimiento automático
+Descripción breve:
+Actualización estructural y funcional del sistema base. Se han incorporado validaciones preventivas, auditoría técnica y refuerzo condicional en cada bloque. Esta versión consolida el modelo de actualizaciones seguras y blindadas en todos los componentes principales.
 
-✅ Actualización automática optimizada
-El sistema ahora se actualiza en segundo plano sin interrumpir tu trabajo. Al finalizar, se muestra un resumen con las novedades y un botón para reiniciar la aplicación si así lo deseas.
+🧩 Cambios principales:
+- Implementación de verificación condicional en estructura de tablas (IF NOT EXISTS)
+- Registro seguro de auditoría para cada método
+- Blindaje de actualizaciones masivas (UPDATE) para evitar sobrecarga y duplicación
+- Creación controlada de columnas y comentarios técnicos
+- Incorporación de validación semántica en campos ENUM
+- Consolidación del controlador de versiones entre base de datos y sistema
 
-🪄 Panel de actualización inteligente
-Si cierras el panel durante la descarga, no te preocupes: se reabrirá automáticamente al finalizar, para que no te pierdas las novedades.
-
-📝 Visualización de notas mejorada
-Las notas de esta versión se cargan directamente desde el archivo de cambios del sistema. Si no están disponibles, se te informará con un mensaje claro.
-
-🔄 Reinicio con un clic
-Después de actualizar, puedes reiniciar fácilmente el sistema desde el mismo panel, sin necesidad de cerrar y volver a abrir manualmente.
-
-🔧 Mayor estabilidad y experiencia visual refinada
-Se realizaron mejoras internas en la lógica de la interfaz y el flujo de la actualización para una experiencia más fluida y robusta
+🛡️ Seguridad de ejecución:
+Todas las operaciones han sido encapsuladas con validaciones previas para evitar errores por inexistencia de estructura, duplicación o falta de datos, garantizando estabilidad tanto en entornos nuevos como en sistemas restaurados.
