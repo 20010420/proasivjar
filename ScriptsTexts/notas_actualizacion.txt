@@ -1,18 +1,32 @@
-📌  Notas de actualización – Versión 2.0.3
+📝 Notas de Actualización – Versión 2.0.4
+Fecha de lanzamiento: [08-08-2025]
+Versión: 2.0.4
+Tipo de actualización: Mejora general + optimización + rediseño visual
 
+🔧 Cambios técnicos y optimizaciones
+- ✅ Sistema de actualización mejorado:
+Se rediseñó el flujo de actualización para mayor robustez, con validación de integridad y limpieza automática de archivos temporales.
+- ✅ Modificación del launcher:
+El lanzador del sistema fue refactorizado para mejorar la compatibilidad con entornos personalizados y facilitar la configuración inicial.
+- ✅ Optimización general del rendimiento:
+Se aplicaron mejoras en la carga de paneles, consultas SQL y renderizado de tablas, reduciendo el tiempo de respuesta en operaciones clave.
 
-Fecha de lanzamiento: 18-07-2025
-Aplicado por: Sistema de mantenimiento automático
-Descripción breve:
-Actualización estructural y funcional del sistema base. Se han incorporado validaciones preventivas, auditoría técnica y refuerzo condicional en cada bloque. Esta versión consolida el modelo de actualizaciones seguras y blindadas en todos los componentes principales.
+🎨 Cambios visuales y de interfaz
+- 🎯 Rediseño ligero de paneles:
+Se ajustaron márgenes, tipografías y colores para mejorar la legibilidad y coherencia visual en los módulos del panel de inventario (para usuario ADMINISTRADOR+).
+- 🧩 Actualización del diseño de tablas:
+Todas las tablas del sistema ahora cuentan con estilos uniformes, alternancia de filas, encabezados personalizados y mejor adaptación a contenido dinámico.
+- 👋 Nuevo panel de bienvenida:
+Al configurar un sistema nuevo, se muestra un panel introductorio con guía rápida y resumen de configuración inicial.
 
-🧩 Cambios principales:
-- Implementación de verificación condicional en estructura de tablas (IF NOT EXISTS)
-- Registro seguro de auditoría para cada método
-- Blindaje de actualizaciones masivas (UPDATE) para evitar sobrecarga y duplicación
-- Creación controlada de columnas y comentarios técnicos
-- Incorporación de validación semántica en campos ENUM
-- Consolidación del controlador de versiones entre base de datos y sistema
+📦 Mejoras funcionales
+- 🧾 Panel de salida de artículos actualizado:
+Se agregó un sub-panel que permite consultar en qué facturas fueron vendidos los artículos seleccionados, mejorando la trazabilidad.
+- 👤 Mejoras en el registro de nuevos clientes:
+Validaciones más precisas, control de duplicados y retroalimentación visual mejorada para cada campo.
 
-🛡️ Seguridad de ejecución:
-Todas las operaciones han sido encapsuladas con validaciones previas para evitar errores por inexistencia de estructura, duplicación o falta de datos, garantizando estabilidad tanto en entornos nuevos como en sistemas restaurados.
+🛡️ Estabilidad y trazabilidad
+- Se reforzó la validación de datos en formularios críticos.
+- Se mejoró el control de errores silenciosos en paneles de carga.
+- Se integraron logs más detallados para auditoría interna.
+
