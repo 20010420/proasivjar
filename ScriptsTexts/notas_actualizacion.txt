@@ -1,3 +1,12 @@
+📝 Notas de Actualización – Versión 2.0.5
+Fecha de lanzamiento: [10-08-2025]
+🔧 Arreglo de errores
+- ✅ Corrección de valores erróneos:
+Se corrigió un error con los datos generales de inventario en el panel Inventario avanczado.
+- ✅Arreglo de errores a la hora de descargar actualizaciones
+Se modifico el sistema de actualizaciones para mejorar la descarga de los archivos
+
+
 📝 Notas de Actualización – Versión 2.0.4
 Fecha de lanzamiento: [08-08-2025]
 Versión: 2.0.4
