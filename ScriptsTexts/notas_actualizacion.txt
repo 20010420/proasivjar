@@ -1,3 +1,8 @@
+📝 Notas de Actualización – Versión 2.0.6
+🔧 Arreglo de errores
+- ✅ Corrección de tablas con valores erróneos:
+Se corrigió un error con la tabla de factura donde a la hora de seleccionar un cliente este salía repetidas veces.
+
 📝 Notas de Actualización – Versión 2.0.5
 Fecha de lanzamiento: [10-08-2025]
 🔧 Arreglo de errores
