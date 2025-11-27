@@ -1,46 +1,8 @@
-📝 Notas de Actualización – Versión 2.0.6
+📝 Notas de Actualización – Versión 2.1.0
 🔧 Arreglo de errores
-- ✅ Corrección de tablas con valores erróneos:
-Se corrigió un error con la tabla de factura donde a la hora de seleccionar un cliente este salía repetidas veces.
+-Correccion de errores de conexcion
+-Sistemas con bases de datos online sufrían de errores continuos con la base de datos
+-Corrección de compatibilidad con el sistema web
+-Corrección e errores en paneles de (Reorden, Salida de artículos, Resumen de ventas).
 
-📝 Notas de Actualización – Versión 2.0.5
-Fecha de lanzamiento: [10-08-2025]
-🔧 Arreglo de errores
-- ✅ Corrección de valores erróneos:
-Se corrigió un error con los datos generales de inventario en el panel Inventario avanczado.
-- ✅Arreglo de errores a la hora de descargar actualizaciones
-Se modifico el sistema de actualizaciones para mejorar la descarga de los archivos
-
-
-📝 Notas de Actualización – Versión 2.0.4
-Fecha de lanzamiento: [08-08-2025]
-Versión: 2.0.4
-Tipo de actualización: Mejora general + optimización + rediseño visual
-
-🔧 Cambios técnicos y optimizaciones
-- ✅ Sistema de actualización mejorado:
-Se rediseñó el flujo de actualización para mayor robustez, con validación de integridad y limpieza automática de archivos temporales.
-- ✅ Modificación del launcher:
-El lanzador del sistema fue refactorizado para mejorar la compatibilidad con entornos personalizados y facilitar la configuración inicial.
-- ✅ Optimización general del rendimiento:
-Se aplicaron mejoras en la carga de paneles, consultas SQL y renderizado de tablas, reduciendo el tiempo de respuesta en operaciones clave.
-
-🎨 Cambios visuales y de interfaz
-- 🎯 Rediseño ligero de paneles:
-Se ajustaron márgenes, tipografías y colores para mejorar la legibilidad y coherencia visual en los módulos del panel de inventario (para usuario ADMINISTRADOR+).
-- 🧩 Actualización del diseño de tablas:
-Todas las tablas del sistema ahora cuentan con estilos uniformes, alternancia de filas, encabezados personalizados y mejor adaptación a contenido dinámico.
-- 👋 Nuevo panel de bienvenida:
-Al configurar un sistema nuevo, se muestra un panel introductorio con guía rápida y resumen de configuración inicial.
-
-📦 Mejoras funcionales
-- 🧾 Panel de salida de artículos actualizado:
-Se agregó un sub-panel que permite consultar en qué facturas fueron vendidos los artículos seleccionados, mejorando la trazabilidad.
-- 👤 Mejoras en el registro de nuevos clientes:
-Validaciones más precisas, control de duplicados y retroalimentación visual mejorada para cada campo.
-
-🛡️ Estabilidad y trazabilidad
-- Se reforzó la validación de datos en formularios críticos.
-- Se mejoró el control de errores silenciosos en paneles de carga.
-- Se integraron logs más detallados para auditoría interna.
 
